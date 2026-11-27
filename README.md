@@ -1,5 +1,7 @@
-![Uploading Kawaii Cat Hugging a Giant Crayon.png…]()
 # 🐱🖍️ CrayonKat
+
+<img width="1402" height="1122" alt="Kawaii Cat Hugging a Giant Crayon" src="https://github.com/user-attachments/assets/6e779c19-f6d6-46e1-86b2-894e04d030db" />
+
 
 Multi-region uptime and incident monitoring with a highly available control plane, written in Go.
 
