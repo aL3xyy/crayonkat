@@ -1,3 +1,4 @@
+![Uploading Kawaii Cat Hugging a Giant Crayon.png…]()
 # 🐱🖍️ CrayonKat
 
 Multi-region uptime and incident monitoring with a highly available control plane, written in Go.
